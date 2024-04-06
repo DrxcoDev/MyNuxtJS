@@ -155,4 +155,8 @@
             margin-left: 20px;
             transition-duration: 1.2s;
             }
+<<<<<<< HEAD
     </style>
+=======
+    </style>
+>>>>>>> 93ca054ab3fcf26d6516169309e6218e1fe81e88

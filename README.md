@@ -4,6 +4,7 @@ Esto es mi repositorio de codigo abierto para complementos prefabricados de Nuxt
 
 ## Algunos ejemplos
 1. [ModernBox](https://github.com/DrxcoDev/MyNuxtJS/tree/main/Complements/loadingdropbox)
+2. [ModernButtons](https://github.com/DrxcoDev/MyNuxtJS/tree/main/Complements/ModernButtons)
 
 ## Contribuir
 
