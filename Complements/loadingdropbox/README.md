@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # Modern Loading Box
+=======
+# Modern loading box
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+❓ Read: `Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.`
+>>>>>>> 42fa9b1cd32a39bfe1e6b9963f042a3b7074876f
+
 
 ## Setup
 
@@ -73,3 +78,7 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+# Preview
+![Captura de pantalla 2024-04-05 170156](https://github.com/DrxcoDev/MyNuxtJS/assets/156522801/09b1b758-303c-4a3e-9016-30e6100d010c)
+
